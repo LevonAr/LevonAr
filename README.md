@@ -6,7 +6,6 @@ I'm Levon Arabyan.
 </p>
 <p align='center'>For enquiries, please reach out @ LevonRM10@gmail.com</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
 
 <div align='center'>
 
