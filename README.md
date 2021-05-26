@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Levon Arabyan.
+</p>
+<p align='center'>For enquiries, please reach out @ LevonRM10@gmail.com</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
+<p align='center'>
 ![](https://img.shields.io/badge/Python-Language-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Javascript-Language-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C-Language-informational?style=for-the-badge&logo=c&logoColor=white&color=2bbc8a)
@@ -12,7 +21,7 @@
 ![](https://img.shields.io/badge/Linux-OS-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/mac-OS-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
+<p>
 <!--
 **LevonAr/LevonAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
