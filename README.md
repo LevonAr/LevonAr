@@ -10,6 +10,8 @@ I'm Levon Arabyan.
 
 <div align='center'>
 
+## 🔧 Technologies & Tools
+  
 ![](https://img.shields.io/badge/Python-Language-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Javascript-Language-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C-Language-informational?style=for-the-badge&logo=c&logoColor=white&color=2bbc8a)
