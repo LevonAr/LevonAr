@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://img.shields.io/badge/Linux-OS-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/macOS-OS-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Code-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
