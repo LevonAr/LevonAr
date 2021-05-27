@@ -20,7 +20,7 @@ I'm Levon Arabyan.
 
 ![](https://img.shields.io/badge/Linux-OS-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/mac-OS-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bash-Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 </div>
 
 <!--
