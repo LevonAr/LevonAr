@@ -8,6 +8,7 @@
 
 <p align='center'>For enquiries, please reach out at <LevonRM10@gmail.com></p>
 
+  [LevonRM10@gmail.com](mailto:LevonRM10@gmail.com)
 
 <div align='center'>
 
