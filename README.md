@@ -6,7 +6,7 @@
 
 <p align='center'>Building beautiful software is my passion.</p>
 
-<div align='center'> For enquiries, please reach out at [LevonRM10@gmail.com](mailto:LevonRM10@gmail.com) </div>
+<div align='center'> For enquiries, please reach out at <a href="mailto:LevonRM10@gmail.com">LevonRM10@gmail.com</a>. </div>
 
 <p align='center'> [LevonRM10@gmail.com](mailto:LevonRM10@gmail.com) <p>
 
