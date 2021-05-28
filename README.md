@@ -1,3 +1,5 @@
+[![My Cool Banner](https://github.com/LevonAr/LevonAr/blob/main/assets/Levon.gif)]
+
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Levon Arabyan.
