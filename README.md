@@ -1,11 +1,12 @@
 ![My Cool Banner](https://github.com/LevonAr/LevonAr/blob/main/assets/Levon.gif)
 
-<h1 align='center'> # Hello! <img src="https://github.com/LevonAr/LevonAr/blob/main/assets/wave.gif" width="30px"></h1>
+<h1 align='center'> Hello! <img src="https://github.com/LevonAr/LevonAr/blob/main/assets/wave.gif" width="30px"></h1>
 
-<p align='center'>
-I'm Levon Arabyan.
-</p>
-<p align='center'>For enquiries, please reach out @ LevonRM10@gmail.com</p>
+<p align='center'>I'm Levon Arabyan.</p>
+
+<p align='center'>Building beautiful software is my passion.</p>
+
+<p align='center'>For enquiries, please reach out at <LevonRM10@gmail.com></p>
 
 
 <div align='center'>
@@ -25,18 +26,3 @@ I'm Levon Arabyan.
 ![](https://img.shields.io/badge/mac-OS-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 </div>
-
-<!--
-**LevonAr/LevonAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
