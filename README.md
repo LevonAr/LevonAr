@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Flask-Tool-informational?style=for-the-badge&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Tool-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Angular-Tool-informational?style=for-the-badge&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node-Tool-informational?style=for-the-badge&logo=nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-Tool-informational?style=for-the-badge&logo=node-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MySQL-Tool-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Linux-OS-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
