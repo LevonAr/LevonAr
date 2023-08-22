@@ -2,13 +2,11 @@
 
 <h1 align='center'> Hello! <img src="https://github.com/LevonAr/LevonAr/blob/main/assets/wave.gif" width="30px"></h1>
 
-<p align='center'>I'm Levon.</p>
+<p align='center'>I'm Lev 🙂</p>
 
 <p align='center'>Building beautiful software is my passion.</p>
 
-<p align='center'><a href="https://www.levonar.com/">Portfolio</a></p>
-
-<p align='center'> For enquiries, please reach out at <a href="mailto:LevonRM10@gmail.com">LevonRM10@gmail.com</a>. </p>
+<p align='center'> Contact: <a href="mailto:LevonRM10@gmail.com">LevonRM10@gmail.com</a>. </p>
 
 <div align='center'>
 
@@ -16,12 +14,7 @@
 
 ![](https://img.shields.io/badge/Javascript-Language-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)  
 
-![](https://img.shields.io/badge/Flask-Tool-informational?style=for-the-badge&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Tool-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vue-Tool-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node-Tool-informational?style=for-the-badge&logo=node-dot-js&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Linux-OS-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/mac-OS-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Bash-Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-Tool-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 </div>
