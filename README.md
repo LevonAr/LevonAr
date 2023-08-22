@@ -1,8 +1,6 @@
 ![My Cool Banner](https://github.com/LevonAr/LevonAr/blob/main/assets/Levon.gif)
 
-<h1 align='center'> Hello! <img src="https://github.com/LevonAr/LevonAr/blob/main/assets/wave.gif" width="30px"></h1>
-
-<p align='center'>I'm Lev 🙂</p>
+<p align='center'>Hello! I'm Lev 🙂</p>
 
 <p align='center'>Building beautiful software is my passion.</p>
 
