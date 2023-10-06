@@ -8,7 +8,7 @@
 
 <div align='center'>
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/Javascript-Language-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)  
 
