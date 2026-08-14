@@ -4,7 +4,7 @@
 
 <p align='center'>Building beautiful software is my passion.</p>
 
-<p align='center'> Contact: <a href="mailto:LevonRM10@gmail.com">LevonRM10@gmail.com</a>. </p>
+<p align='center'> Contact: <a href="mailto:LevonRM10@gmail.com">LevArabyan@gmail.com</a>. </p>
 
 <div align='center'>
 
