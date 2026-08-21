@@ -1,11 +1,5 @@
 ![My Cool Banner](https://github.com/LevonAr/LevonAr/blob/main/assets/Levon.gif)
 
-<p align='center'>Hello! I'm Lev 🙂</p>
-
-<p align='center'>Building beautiful software is my passion.</p>
-
-<p align='center'> Contact: <a href="mailto:LevonRM10@gmail.com">LevArabyan@gmail.com</a>. </p>
-
 <div align='center'>
 
 ## Specializations
